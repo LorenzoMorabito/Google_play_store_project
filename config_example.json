@@ -1,0 +1,10 @@
+{
+    "raw_data_path": "YOUR_PATH_HERE/Google_play_store/data/original/",
+    "clean_data_path": "YOUR_PATH_HERE/Google_play_store/data/cleaned/",
+    "merged_data_path": "YOUR_PATH_HERE/Google_play_store/data/cleaned/",
+    "db_connection_string": "YOUR_DATABASE_CONNECTION_STRING_HERE",
+    "schema": "YOUR_DATABASE_SCHEMA_HERE",
+    "positive_words_path": "YOUR_PATH_HERE/Google_play_store/word_lists/p.xlsx",
+    "negative_words_path": "YOUR_PATH_HERE/Google_play_store/word_lists/n.xlsx",
+    "images_path": "YOUR_PATH_HERE/Google_play_store/images/"
+}
